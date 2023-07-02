@@ -1,7 +1,7 @@
 # Retro-Theme
 This is a VS code color theme I customized
 
-![Theme Image](images/theme.png)
+![Theme Image](theme.png)
 
 ## Installing
 Select the "..." menu at the top left of the VS code sidebar
